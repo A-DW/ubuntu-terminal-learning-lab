@@ -1,0 +1,38 @@
+# Private local working material.
+/local/
+/.private/
+.env
+.env.*
+!.env.example
+
+# Private keys and local SSH directories.
+**/.ssh/
+id_rsa
+id_rsa_*
+!id_rsa*.pub
+id_ed25519
+id_ed25519_*
+!id_ed25519*.pub
+*.pem
+*.key
+
+# VM disks, snapshots and installation media.
+*.qcow
+*.qcow2
+*.img
+*.iso
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.save
+
+# Local editor and OS files.
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Reviewed synthetic logs and text evidence are intentionally not ignored.
+# These patterns do not scan file contents or remove already tracked data.
