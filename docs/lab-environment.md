@@ -33,8 +33,6 @@ I run ordinary file work as a normal user. I require explicit targets and justif
 - Keep SERVER console access and a known-working session available during SSH or access-policy changes.
 - Verify a second login before removing a working authentication method.
 - Use verified loop-backed images for storage exercises, not guessed device names or the VM's operating-system disk.
-- Keep credentials, private keys, password hashes and VM images out of the repository.
-- Record the actual software version when behaviour differs from a reference example.
 
 ## Local documentation
 
