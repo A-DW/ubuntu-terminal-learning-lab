@@ -30,9 +30,3 @@ I closed Block 1 as guided learning after understanding the remaining issues. I 
 I want a useful learning record, not a reconstructed perfect performance. I preserve unsuccessful commands and relevant errors when I publish an attempt, place corrected examples in solutions, and label any redactions.
 
 Repository commits record publication changes. I do not backdate imports or imply that a later documentation commit proves when a command originally ran.
-
-## Scope and authorship
-
-I wrote the starting notes, but I cannot currently recover every original source link. I cite identifiable sources and acknowledge unresolved references rather than inventing a bibliography. Authorship does not mean that every command or explanation has been independently verified.
-
-I use AI assistance for practice design, explanations, reviews and repository drafting. This remains my unofficial learning project, not a Canonical-endorsed publication. See [sources and attribution](sources-and-attribution.md).
