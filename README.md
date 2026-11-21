@@ -62,8 +62,6 @@ This describes the published repository, not a VM filesystem or a claim that fut
 
 ## Publication boundaries
 
-I wrote the starting study notes while preparing for the certification. Some source links are unavailable or uncertain; I do not invent references to fill those gaps. Full notes and original terminal submissions are not included in this initial publication.
+I wrote the starting study notes while preparing for the certification. Full notes and original terminal submissions are not included in this initial publication.
 
 I use AI assistance for exercise design, explanations, review and repository drafting. I distinguish generated reference examples from observed terminal evidence.
-
-I have not added a licence yet. Do not infer permission to reuse third-party material from this repository's public visibility. See [sources and attribution](docs/sources-and-attribution.md) for the current policy.
